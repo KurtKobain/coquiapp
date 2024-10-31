@@ -1,0 +1,4 @@
+# Build Command (for frontend)
+cd frontend && npm install && npm run build
+# Publish Directory (React apps typically output to build)
+frontend/build
