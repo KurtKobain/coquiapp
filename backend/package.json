@@ -1,0 +1,4 @@
+# Build Command
+cd backend && npm install
+# Start Command
+cd backend && npm start
